@@ -1,0 +1,8 @@
+C:\Users\Yeglan\documents\visual studio 2013\Projects\JumoCoding\JumoCoding\bin\Release\JumoCoding.exe.config
+C:\Users\Yeglan\documents\visual studio 2013\Projects\JumoCoding\JumoCoding\bin\Release\JumoCoding.exe
+C:\Users\Yeglan\documents\visual studio 2013\Projects\JumoCoding\JumoCoding\bin\Release\JumoCoding.pdb
+C:\Users\Yeglan\documents\visual studio 2013\Projects\JumoCoding\JumoCoding\obj\Release\JumoCoding.Form1.resources
+C:\Users\Yeglan\documents\visual studio 2013\Projects\JumoCoding\JumoCoding\obj\Release\JumoCoding.Properties.Resources.resources
+C:\Users\Yeglan\documents\visual studio 2013\Projects\JumoCoding\JumoCoding\obj\Release\JumoCoding.csproj.GenerateResource.Cache
+C:\Users\Yeglan\documents\visual studio 2013\Projects\JumoCoding\JumoCoding\obj\Release\JumoCoding.exe
+C:\Users\Yeglan\documents\visual studio 2013\Projects\JumoCoding\JumoCoding\obj\Release\JumoCoding.pdb
